@@ -1,7 +1,8 @@
 # SalesInsightAnalysis
 Analysing the trend of the sales of product of the respective company with time(2017-2020). Informing the insight as the trend being generated as a part of business transactions.
 
-![image](https://github.com/user-attachments/assets/26860f04-99cc-4691-98d4-004e5b30d61a)
+![image](https://github.com/user-attachments/assets/cb579dfb-b20b-4ca9-92a8-2112fae8f88f)
+
 
 Findings:
 - The revenue is in declining stage as from 2018
